@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Distributed Logical Fallacy Detection System
 
 A research-grade NLP pipeline that detects and explains logical fallacies in text, combining transformer-based classification, dense retrieval (RAG-style), and parallel/distributed computing techniques.
@@ -212,3 +213,7 @@ Use a T4 GPU notebook.  Mixed precision is auto-enabled when CUDA is detected.
 All scripts call `set_seed(42)` before any stochastic operation.
 The label map is saved alongside the model for deterministic label decoding.
 Training history (loss, metrics, epoch) is saved as JSON for analysis.
+=======
+# Distributed-Detection-and-Explanation-of-Logical-Fallacies
+Distributed Detection and Explanation of Logical Fallacies in Argument in Text Using Rag and Parallel NLP Pipelines
+>>>>>>> 80d955f24899109009476d92e58687ce3262a0f4

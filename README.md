@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Distributed Logical Fallacy Detection System
 
 A research-grade NLP pipeline that detects and explains logical fallacies in text, combining transformer-based classification, dense retrieval (RAG-style), and parallel/distributed computing techniques.

@@ -1,0 +1,709 @@
+text,predicted_fallacy,confidence,explanation
+"[PERSON] : msk should oppose any attempt to msk msk . such regulation is the first step to msk of all msk and the elimination of msk constitutional right to bear arms . ted : this is preposterous . many things in society are msk , such as cars , babies , boats , and lanes , yet these items have never been msk .",straw_man,0.5742374658584595,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Moderate confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+a lifelong [NORP] who was against msk until it saved msk life .,ad_hominem,0.41370660066604614,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"unfair judgement of people based on looks , belief , or ethnic background .",false_dilemma,0.2527311146259308,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Low confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+""" msk am a msk msk because msk make msk msk decisions . msk msk is that msk am a msk msk , and msk 's what msk do . "" what is this ?",circular_reasoning,0.83545982837677,"This argument commits CIRCULAR REASONING. It uses "" msk am a msk msk because msk make msk msk decisi... as both a premise and the conclusion, creating a logical loop without external evidence. (High confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"mining may destroy msk , but how about the people whose jobs will be affected ? should we ban msk ?",false_dilemma,0.2813621759414673,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Low confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+"msk : msk i am for msk . msk msk : msk msk is for msk , but msk is not even smart enough to run a business .",ad_hominem,0.8567001819610596,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (High confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"the solution is “ to get good fire on the ground and whittle down some of that fuel load , ” he told propublica in [DATE] . “ it ’ s just ... well ... it ’ s horrible . horrible to see this happening when the science is so clear and has been clear for [DATE] . i suffer from cassandra syndrome , ” ingalsbee said , referring to the cassandra syndrome , a [NORP] metaphor people use when they believe their valid warnings are not heeded . “ every year i warn people : disaster ’ s coming .",false_cause,0.3820091784000397,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+""" msk just says that because msk 's a [NORP] . """,circular_reasoning,0.6872295141220093,"This argument commits CIRCULAR REASONING. It uses "" msk just says that because msk 's a [NORP] . ""... as both a premise and the conclusion, creating a logical loop without external evidence. (Moderate confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+[PERSON] and [PERSON] spoke at [GPE] college on [DATE] about the “ climate crisis ” that [PERSON] has been trying to convince us about for [DATE] .,fallacy_of_credibility,0.35240238904953003,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on [date]. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"msk ask all employees to vote for msk in the upcoming elections . if msk msk , msk will raise taxes and many of msk will msk msk jobs .",faulty_generalization,0.577411413192749,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+this clinic sure makes a lot of money . each of the psychologists who work there must earn a large income .,appeal_to_popularity,0.3461776077747345,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"all msk msk causes illness ; when msk traveled through msk , msk got msk poisoning .",false_cause,0.8091646432876587,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+we can either stop using cars or destroy the earth .,false_dilemma,0.9035750031471252,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Very high confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+msk is by far the most msk because no other msk is so msk and msk is the only msk that is completely msk .,circular_reasoning,0.836959719657898,"This argument commits CIRCULAR REASONING. It uses msk is by far the most msk because no other msk is... as both a premise and the conclusion, creating a logical loop without external evidence. (High confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+labor unions in [GPE] are just as bad as [GPE] under stalin !,straw_man,0.2492581009864807,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Low confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+"since the beginning of time , water vapour has been the main greenhouse gas and carbon dioxide has had a minuscule effect on global climate .",intentional,0.35972902178764343,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"“ msk must be cool because everyone is doing msk ... "" said [ORG]",appeal_to_popularity,0.7936028838157654,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+msk : msk msk msk should be legalized . it would be better for the country if we did n’t have this msk war . msk : of course msk msk that . msk ’re a pothead .,ad_hominem,0.5207942128181458,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"if msk allow msk to msk for encampment online , msk ’d save everyone lots of headaches . reply : no . msk ’ve always made msk msk using a paper form .",relevance_fallacy,0.2712714970111847,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+""" msk says that msk should not fund the attack submarine program . msk disagree entirely . msk ca n't understand why he wants to leave msk defenseless like that . """,straw_man,0.8830896615982056,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (High confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+""" msk roommate said her msk was msk , and the one msk 'm in is msk , too . all msk must be msk ! ”",faulty_generalization,0.6526303291320801,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"msk should not be singling out msk company 's problems at msk chemical storage facilities , when the [ORG] records indicate msk very own landfill has been cited as msk improvements . msk msk to clean up msk own mess , before msk go after msk .",logical_fallacy,0.2327887862920761,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"msk is an effective communicator , because msk has a natural talent for speaking with people . against",circular_reasoning,0.7937518954277039,"This argument commits CIRCULAR REASONING. It uses msk is an effective communicator , because msk has... as both a premise and the conclusion, creating a logical loop without external evidence. (High confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+losing tropical forests is not somehow cheaper than putting up wind farms in the [GPE] or sahara . ”,intentional,0.22379158437252045,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"a year is msk long , so msk celebrate msk birthday every msk .",false_cause,0.33567875623703003,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+[PERSON] : msk should stop msk - it 's bad for msk . [PERSON] : look who 's talking ! msk msk three packs a day !,relevance_fallacy,0.4746006429195404,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"msk was [DATE] in msk , so the foot traffic through the atrium from mass ave to mount auburn street was heavier than msk might have been if the sun were out . a lot of msk were msk msk , which most of msk furled inside . msk had always msk that cambridge , in the vicinity of msk , might have had the most msk per capita of any place in the world . msk msk msk when it snowed . in msk childhood , in laramie , wyoming , we msk to msk msk who msk msk were sissies .",false_cause,0.43574875593185425,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"the statement "" msk are not really an [NORP] if msk are vegetarian "" is an example of which fallacy ?",fallacy_of_credibility,0.18629001080989838,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+""" i believe that pnoy is the abraham [ORG] of the philippines . """,fallacy_of_credibility,0.4553215801715851,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"shortly after myspace became popular , [GPE] soldiers found [PERSON] .",false_cause,0.40447646379470825,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"pointing to a fancy chart , [PERSON] shows how temperatures have been rising over [DATE] , whilst at the same time the numbers of msk have been decreasing ; thus msk cool the world and global warming is a hoax .",intentional,0.2818778455257416,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"the earth has experienced five mass extinctions before the one we are living through now , each so complete a slate-wiping of the evolutionary record it functioned as a resetting of the planetary clock , and many climate scientists will tell you they are the best analog for the ecological future we are diving headlong into .",appeal_to_popularity,0.4612978994846344,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+""" every person is either msk msk or msk msk . if are msk msk msk should msk msk . if msk are msk msk msk should msk msk so msk should either msk msk or msk msk . """,false_dilemma,0.5410521030426025,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Moderate confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+""" msk 's definitely a feminist ; msk watched [ORG] "" is an example of this fallacy .",ad_hominem,0.26931414008140564,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+he said : “ cooling from [DATE] into [DATE] will bring world temperatures back to where they were in [DATE] .,logical_fallacy,0.19488383829593658,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+msk argues that msk should abolish the soda tax . [ORG] 's a shame that msk wants to encourage people to eat and drink unhealthily . [ORG] say msk keep msk .,straw_man,0.5441940426826477,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Moderate confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+""" everyone should like coffee : [PERCENT] of teachers do ! """,appeal_to_popularity,0.8164169788360596,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+i do n’t see what ’s wrong with engaging the services of a professional escort .,fallacy_of_credibility,0.377099871635437,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+""" all msk are msk . msk are msk . therefore msk are msk . """,logical_fallacy,0.7317104935646057,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (High confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"msk went to school , so msk knows everything about the education system .",ad_hominem,0.30412235856056213,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+[ORG] : msk are not racists . [PERSON] : yes msk are . msk just believe that because msk are white .,ad_hominem,0.6501832604408264,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"msk , like rivers , can be broad . the msk msk , the msk msk is . therefore , the msk the msk , the msk msk is .",logical_fallacy,0.5245711803436279,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Moderate confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"prof [PERSON] at the university of leeds , who was not part of the research team , said : “ ultimately , we live on a finite planet , with finite resources .",fallacy_of_credibility,0.5632255673408508,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on a. (Moderate confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"msk roommate msk to talk about cleaning out msk , so msk msk msk what msk msk to do with our msk . now msk 's shopping for new msk and not msk msk about msk .",relevance_fallacy,0.6098203063011169,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Moderate confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+you know msk exercise videos must be worth the money . look at the great shape msk 's in .,false_cause,0.7622473239898682,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"but for the sake of argument , say there are merely 15 variables involved in predicting global climate change , and assume that climatologists have mastered each one to a near-perfect accuracy of [PERCENT] .",intentional,0.3206128776073456,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+it occurs when someone makes an appeal to emotion of pity instead of addressing the argument .,relevance_fallacy,0.33023005723953247,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+in many cases you ca n't really tell whether msk are msk because of what the therapist is doing or because of the placebo effect — there 's a fuzzy line separating the two -- so we must conclude that msk are actually the same mechanism of msk .,false_cause,0.44826772809028625,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"despite all this evidence , however , governors and senators who are often climate change deniers still get voted back into power there .",faulty_generalization,0.18784408271312714,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"meanwhile , mr [PERSON] confirmed the changes would usher in a sustained period of “ climate system mayhem ” which could prove difficult to resolve .",appeal_to_emotion,0.5949743986129761,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for meanwhile , mr [PERSON] confirmed the changes woul.... (Moderate confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"update [DATE] : as i predicted in this article , global warming activists have indeed made a full-blown public relations effort to claim [DATE] was [DATE] on record .",fallacy_of_credibility,0.5178177952766418,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on record. (Moderate confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"[ORG] , claiming that everyone else who has bought msk loves the new product .",appeal_to_popularity,0.8437910676002502,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+a recent study found that there are plenty of scientists who disagree with the consensus position on this phenomenon .,fallacy_of_credibility,0.37788695096969604,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on this. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"they say there is great uncertainty , and they reflected this uncertainty in their fifth and latest assessment for [ORG] intergovernmental panel on climate change ( ipcc ) .",fallacy_of_credibility,0.6059494018554688,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on climate. (Moderate confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+msk went to go swimming for [TIME] and later bought a lottery ticket . msk msk makes you msk .,false_cause,0.7559404969215393,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+a real estate ad shows msk moving in to the home of msk dreams .,appeal_to_popularity,0.3627970218658447,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"look , it does n't matter whether or not you msk msk should build a wall on the border . the president msk msk should do msk , so msk 's a good idea .",relevance_fallacy,0.18445828557014465,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+msk how can msk argue msk case for vegetarianism when msk are enjoying msk steak ? msk,ad_hominem,0.5256990194320679,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+some cancers induce a muscle-wasting syndrome that leads to faster-than-usual weight loss . this is likely what happened to the emaciated [LOC] bear captured on video in [DATE] and promoted by national geographic [DATE] .,false_cause,0.7051768898963928,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+""" msk and then msk msk the game . every time msk , msk 're going to msk . """,false_cause,0.8130676746368408,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"in [DATE] , with the aid of scientists such as wieslaw maslowski and [PERSON] , the [ORG] and others were telling us that the [LOC] would be totally “ ice free by [DATE] ” ( the independent even cleared its front page to announce that the ice could all have disappeared within [DATE] ) . by [DATE] , the [ORG] ’ s science editor [PERSON] was telling us that the ice would “ probably be gone within [DATE] ” . in [DATE] , his colleague [PERSON] was reporting that the sea ice was now melting so fast that more had vanished that [DATE] than “ at any time since satellite records began ” .",intentional,0.5236617922782898,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Moderate confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"subscribe to our streaming services , or get stuck with cable !",false_dilemma,0.8296999335289001,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (High confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+msk always brings up stuff about msk 's rights . msk only cares about it because msk is a msk . the stats msk shows us are probably bias .,ad_hominem,0.3348938226699829,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about msk, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+this is the `` hottest [ pick a season ] ever '' ; the ice caps are at a record low ; we 'll all be dead in [DATE] .,appeal_to_emotion,0.5462893843650818,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for this is the `` hottest [ pick a season ] ever '' ;.... (Moderate confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"the shopping is a red herring , since the original issue was video games .",faulty_generalization,0.23134146630764008,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"at six , according to an assessment focused only on effects within the [GPE] from the national oceanic and atmospheric administration , [DATE] labor of any kind would become impossible in the lower [GPE] , and everybody in the country east of the rockies would be under more heat stress than anyone , anywhere , in the world [DATE] . as [PERSON] has put it in his authoritative primer climate change : what everyone needs to know , heat stress in [GPE] would exceed that of [DATE] bahrain , one of the planet ’ s hottest spots , and the temperature in bahrain “ would induce hyperthermia in even sleeping humans. ”",appeal_to_popularity,0.33571749925613403,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+msk there are n’t msk ; i tried two and msk were both horrible . msk,false_cause,0.3790079653263092,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+keeping a msk as a msk is every bit as evil as human slavery .,circular_reasoning,0.6089721322059631,"This argument commits CIRCULAR REASONING. It uses keeping a msk as a msk is every bit as evil as hum... as both a premise and the conclusion, creating a logical loop without external evidence. (Moderate confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+distracting and dangerous mobile devices should be banned from use in vehicles .,circular_reasoning,0.5448678731918335,"This argument commits CIRCULAR REASONING. It uses distracting and dangerous mobile devices should be... as both a premise and the conclusion, creating a logical loop without external evidence. (Moderate confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"we are often being told that we ’ re seeing more and more droughts , but a study published [DATE] in the journal nature actually shows a decrease in the world ’ s surface that has been afflicted by droughts [DATE] .",fallacy_of_credibility,0.30024659633636475,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"msk - "" an apple is a vegetable . "" msk - "" do n't listen to msk ; msk failed [NORP] class [DATE] . """,ad_hominem,0.8280332684516907,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (High confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+""" you 're clearly just too young to understand what ’s happening . ” the statement is an example of ...",ad_hominem,0.5510396361351013,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"he should know , having written one of the first textbooks on using computers to model physics phenomena .",fallacy_of_credibility,0.40346822142601013,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on using. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+msk either support [PERSON] for president or msk do n’t believe in women ’s rights .,false_dilemma,0.9126450419425964,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Very high confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+msk is a monster who msk to separate immigrant families in detention centers . how could msk vote for someone msk that ??,ad_hominem,0.5782833099365234,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"longer term , if emissions rise unchecked , scientists fear climate effects so severe that they might destabilize governments , produce waves of refugees , precipitate the sixth mass extinction of plants and animals in the earth ’ s history , and melt the polar ice caps , causing the seas to rise high enough to flood most of the world ’ s coastal cities . the emissions that create those risks are happening now , raising deep moral questions for our generation .",appeal_to_emotion,0.7517606019973755,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for longer term , if emissions rise unchecked , scient.... (High confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"if houlton 's finding about these vast , previously unknown nitrogen stores holds true , then it would have an enormous impact on global warming predictions .",intentional,0.4324829578399658,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"we may be able to raise the thames barrier in [GPE] but in bangladesh , it just means more and more people will be drowned .",appeal_to_emotion,0.6534758806228638,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for we may be able to raise the thames barrier in [GPE.... (Moderate confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"do n't let msk msk up msk on new year 's eve . before msk know it , [ORG] 'll be demanding to msk up msk [TIME] .",appeal_to_emotion,0.42792457342147827,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for do n't let msk msk up msk on new year 's eve . bef.... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"`` the bottom line point is that there has been a long-term warming trend observed in the location where pam intensified , '' ventrice said .",false_cause,0.3817596435546875,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"since [DATE] , the planet has experienced a 50-fold increase in the number of places experiencing dangerous or extreme heat ; a bigger increase is to come .",intentional,0.2848295271396637,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+""" people who do n't support the proposed state minimum wage increase hate the poor . """,straw_man,0.8731555342674255,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (High confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+"msk think msk are good ? msk know who else liked msk ? [PERSON] , that ’s who .",appeal_to_popularity,0.33913516998291016,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+""" some msk recently vandalized the park . msk are so irresponsible . """,faulty_generalization,0.4863520562648773,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"msk are felines . all msk are msk . therefore , msk are msk .",logical_fallacy,0.43247470259666443,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"instead of negotiating over climate change policies and trying to make them more market-oriented , some political conservatives have taken the approach of blocking them by trying to undermine the science .",straw_man,0.2513897120952606,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Low confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+using the second amendment as justification to allow civilians to own nuclear submarines .,straw_man,0.1692761480808258,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Low confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+there is a global recession and more people are becoming hungry and desperate . msk of msk and msk have been increasing at an alarming rate lately . the only way to solve this problem is by reinstating the death penalty,false_cause,0.26157253980636597,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"in [DATE] , a severe heatwave claimed over 1,000 lives in [GPE] , [GPE] . severe drought caused food shortages for millions of people in [GPE] , with a lack of rainfall resulting in “ intense and widespread ” forest fires in [GPE] that belched out a vast quantity of greenhouse gas .",appeal_to_emotion,0.4940289855003357,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for in [DATE] , a severe heatwave claimed over 1,000 l.... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+""" msk see nobody on the road , "" said alice . "" msk only wish msk had such eyes , "" msk remarked ... "" to be able to see nobody ! and at that distance , too ! why it 's as much as msk can do to see real people , by this light . """,circular_reasoning,0.29478317499160767,"This argument commits CIRCULAR REASONING. It uses "" msk see nobody on the road , "" said alice . "" ms... as both a premise and the conclusion, creating a logical loop without external evidence. (Low confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"[PERSON] said a steep drop in emissions to zero by [DATE] would negate the need for “ negative emissions ” technology that would damage forests ’ ability to suck up carbon , maintain local water supplies and weather patterns and provide a home for a riot of birds , mammals , insects and other creatures .",appeal_to_emotion,0.46375247836112976,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for [PERSON] said a steep drop in emissions to zero by.... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"msk guess msk should buy msk [DATE] daughter an iphone . everyone at msk new school has one , and msk want msk to fit in with the other kids .",appeal_to_popularity,0.8238837718963623,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"msk should choose to msk more overtime at the same rate of pay . after all , msk would n’t want to lose msk msk , would msk ?",relevance_fallacy,0.25139060616493225,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+on all timescales it can be shown that there is no correlation between co2 emissions and global warming .,intentional,0.406380832195282,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"since [PERSON] ( aka the rock ) endorsed msk , msk must work wonders .",appeal_to_popularity,0.29120853543281555,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+""" you passed everyone in the class , so i should get extra credit "" is an example of",appeal_to_popularity,0.7191323041915894,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"[DATE] , the [NORP] built dikes to prevent flooding .",intentional,0.42817962169647217,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"the msk of a young child tells msk to go to msk , and msk begins to ask questions , say that msk is hungry , or say that msk needs to go to the bathroom - all to avoid msk and distract msk .",relevance_fallacy,0.3281320035457611,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"msk am msk because msk msk , and msk msk because msk 'm msk .",circular_reasoning,0.8552418351173401,"This argument commits CIRCULAR REASONING. It uses msk am msk because msk msk , and msk msk because m... as both a premise and the conclusion, creating a logical loop without external evidence. (High confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"my first time meeting msk went poorly , so msk class will not be a good one [DATE] .",faulty_generalization,0.5249636769294739,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"according to a report [DATE] by climate change business journal , it ’ s now worth an astonishing [MONEY] — about the same as the online shopping industry . if the scare goes away , then all bets are off , because the entire global decarbonisation business relies on it .",faulty_generalization,0.35229063034057617,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"just like [PERSON] ’ s ‘ hockey stick ’ graph he had cut off the tree-ring data just at the point where it stopped showing an upward trend and swapped in thermometer temperatures for [DATE] , making them look much warmer .",logical_fallacy,0.24414019286632538,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+you oppose msk proposal to extend government - funded health care to poor minority children because msk is a liberal [NORP] .,straw_man,0.5241995453834534,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Moderate confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+""" msk is the most important state because msk has sun and beaches . """,circular_reasoning,0.6838330030441284,"This argument commits CIRCULAR REASONING. It uses "" msk is the most important state because msk has ... as both a premise and the conclusion, creating a logical loop without external evidence. (Moderate confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+""" people generally like to walk on the msk . msk have msk . therefore , having msk floors in homes would be a great idea ! """,logical_fallacy,0.6881546974182129,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Moderate confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"yes , you read that correctly , three million — million — [DATE] co2 levels on earth were the same as they are [DATE] , but there is one major difference [DATE] and [DATE]...",false_cause,0.3126393258571625,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+“ you acknowledge though the water is rising ? ” asks stossel .,intentional,0.23116569221019745,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"if someone told msk , "" msk does n't know anything about science because msk likes weird music , "" what logical fallacy are they using ?",ad_hominem,0.5138007998466492,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about science, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+msk support more aggressive gun control laws . can you believe msk want to deny repeat offenders and those on the terrorist watch list msk rights ?,straw_man,0.6668345928192139,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the as an exaggerated version, then attacks this distorted version. (Moderate confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+"this is usually msk in a company 's slogan , msk words that are very vague and nonspecific , but sound really nice . ex : "" eat fresh . "" "" expect more . pay less . """,relevance_fallacy,0.27803727984428406,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"in [GPE] , one can vote for either msk or msk .",false_dilemma,0.8322168588638306,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (High confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+"most people think msk is msk , therefore msk is msk .",appeal_to_popularity,0.4682231843471527,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"whatever is less dense than msk will float , because such objects wo n't sink in msk .",logical_fallacy,0.4141565263271332,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"fallacy suggesting that because everyone believes msk or does something , msk must be valid , accurate , or effective .",appeal_to_popularity,0.6897279620170593,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Moderate confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"however , since [DATE] , little warming has occurred while carbon dioxide emissions continue to increase . this is totally consistent with variations in the amount of heat the earth receives from the sun .",intentional,0.5451798439025879,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Moderate confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+msk the economy has improved greatly because of the new president . msk,false_cause,0.28261759877204895,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"estimates vary on how much carbon is currently released from thawing permafrost worldwide , but by one calculation emissions over [DATE] could average about 1.5 billion tons a year , or about the same as current [DATE] emissions from fossil-fuel burning in [GPE] .",appeal_to_popularity,0.3342951834201813,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"parent : msk really do n’t want msk to msk . it ’s still illegal , and could get msk into trouble . child : did n’t msk msk when msk were msk age ? msk must not think it ’s a big deal .",relevance_fallacy,0.34001782536506653,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+global msk does n’t exist because the earth is not getting msk,circular_reasoning,0.27987053990364075,"This argument commits CIRCULAR REASONING. It uses global msk does n’t exist because the earth is not... as both a premise and the conclusion, creating a logical loop without external evidence. (Low confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"msk uses the logic : everyone else is doing msk , you should too !",appeal_to_popularity,0.840095043182373,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"major in english in college , start reading poetry , and next thing msk know , msk will become an unemployed pot - smoking loser .",faulty_generalization,0.5726269483566284,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+distracting your audience from the original issue by introducing an irrelevant topic .,relevance_fallacy,0.29107192158699036,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"msk argues that because msk friend was brainwashed as a child into thinking that msk are msk , msk are not msk . name that fallacy :",ad_hominem,0.8012539744377136,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (High confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"you must obey msk , because msk 's illegal to break msk .",circular_reasoning,0.8697953224182129,"This argument commits CIRCULAR REASONING. It uses you must obey msk , because msk 's illegal to brea... as both a premise and the conclusion, creating a logical loop without external evidence. (High confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+that 's what you 'd expect someone like him / her to say,appeal_to_popularity,0.30278462171554565,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+""" who is msk , and why is msk saying all those terrible things about rock msk ? on [DATE] , brownbeck , an ambitious [NORP] msk convened a hearing billed as "" an example of violent music msk on youth behavior and well being msk "" msk subcommittee , which supervises schools and streets in [GPE] , has much more important work to do , but the senator , who will run again in [DATE] , is clearly searching for an issue to give msk national prominence . """,relevance_fallacy,0.3351270258426666,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"if msk ’m msk , msk will be able to see msk . msk see msk , therefore msk ’m msk .",logical_fallacy,0.7301187515258789,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (High confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"either msk love msk , or msk hate msk .",false_dilemma,0.9069077968597412,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Very high confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+here ’ s an unusual one from guillet et [ORG] suggesting that there ’ s nothing new about wildly early or late grape harvests through [DATE] :,fallacy_of_credibility,0.41883325576782227,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on wildly. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"we have n’t found msk tomb , so msk did n’t really exist .",intentional,0.662607729434967,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Moderate confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"image modelling shows that swaths of [GPE] – the commercial heart of a region whose gdp is almost as big as that of the [GPE] – would disappear beneath the water in a 3c world , threatening the local economy and almost a third of the wider region ’ s 19 million residents .",appeal_to_popularity,0.19578242301940918,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"roughly 100 massive fires are blazing [DATE] in the west , including 12 in [GPE] and nine in [GPE] , the national interagency fire center said [DATE] . all told , the wildfires have churned through [MONEY] in 12 states . ( related : wildfires , blackouts and high gas prices : [NORP] fight familiar foes amid pandemic )",appeal_to_emotion,0.3111880421638489,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for roughly 100 massive fires are blazing [DATE] in th.... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+msk police officers agree that blackjack steering wheel locks are the most effective deterrent against car theft . msk,appeal_to_popularity,0.5491088032722473,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Moderate confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"being msk is wrong . therefore , msk can not possibly be part of our nature .",straw_man,0.30006131529808044,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Low confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+someone who is poor is more credible than someone who is rich ?,ad_hominem,0.668192982673645,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+msk : smarter than a msk . msk : dumber than a msk .,ad_hominem,0.34422677755355835,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"it ’ s the return of left-leaning scientists ’ famous nemesis , “ reality. ”",ad_hominem,0.5653668642044067,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"msk people do n't msk . msk told a msk . therefore , msk are not a msk person .",circular_reasoning,0.23206603527069092,"This argument commits CIRCULAR REASONING. It uses msk people do n't msk . msk told a msk . therefore... as both a premise and the conclusion, creating a logical loop without external evidence. (Low confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"msk know nothing about msk except that msk has a criminal record as long as your leg , but msk ’ll bet msk ’s really just misunderstood",ad_hominem,0.4539021849632263,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about msk, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"msk can not blame msk for a rain msk just because every time msk go with msk to a msk it storms and play is msk . likewise , the fact that msk bought msk before msk pitched a winning msk does not mean that msk cause msk to throw faster .",false_cause,0.4104313254356384,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+msk is popular among msk because so many of msk use msk .,circular_reasoning,0.6150496602058411,"This argument commits CIRCULAR REASONING. It uses msk is popular among msk because so many of msk us... as both a premise and the conclusion, creating a logical loop without external evidence. (Moderate confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"if we allow euthanasia , the next thing you know , murder will be legal .",faulty_generalization,0.49311625957489014,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"animal experimentation reduces msk msk for msk . if msk do n't msk msk , msk are likely to be more and more tolerant of violent acts like war and murder . soon msk will become a battlefield in which msk constantly fears for msk msk . msk will be the end of civilization .",faulty_generalization,0.5536757707595825,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+msk moved the goalposts or made up an exception when msk claim was shown to be false .,intentional,0.325201153755188,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+[PERSON] ’ t “ vote for climate catastrophe ” warned a [GPE] post editorialist . “,ad_hominem,0.35922670364379883,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"`` we are projecting that all of these meadows are going to look like that , '' harte says , pointing to the gnarled plant . `` we are homogenizing the planet . ''",relevance_fallacy,0.22489222884178162,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"all this time that msk 're telling me to improve , msk 're being lazy msk .",ad_hominem,0.5124713182449341,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"msk should marry msk . msk know we ’re not compatible , but msk only have a year to live , and msk ’re msk last chance .",faulty_generalization,0.48407989740371704,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+attributing the cause of [EVENT] to only adolf hitler 's hatred of the jews,intentional,0.27917540073394775,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+""" blondes are less intelligent than people with other hair colors . """,ad_hominem,0.3695547580718994,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"msk has msk vote for senator , because msk has the best shirts . what logic fallacy does this represent ?",circular_reasoning,0.4587966203689575,"This argument commits CIRCULAR REASONING. It uses msk has msk vote for senator , because msk has the... as both a premise and the conclusion, creating a logical loop without external evidence. (Low confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"as soon as [DATE] from now , the hajj will become physically impossible for the 2 million [NORP] who make the pilgrimage [DATE] .",appeal_to_emotion,0.3826565742492676,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for as soon as [DATE] from now , the hajj will become .... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+""" do n't make msk msk ; you wo n't like msk when msk 'm msk . """,ad_hominem,0.5431942343711853,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"while in math class , msk says msk msk makes no sense , msk ca n’t be real so i must not need this . msk what fallacy did msk commit ?",ad_hominem,0.6562752723693848,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+msk father told msk that msk is green . so msk must be the truth .,fallacy_of_credibility,0.3742033541202545,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+""" msk have n't held a steady job since [DATE] . worse than that , we could n't find a single employer who 'd provide msk with a good reference . """,ad_hominem,0.35240718722343445,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+eating five candy bars and drinking two sodas before msk helps msk get better grades . msk did that and got an a on msk in history .,false_cause,0.8171290159225464,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"[ORG] lite is msk beer , so the guinness will be msk , too",appeal_to_popularity,0.2974913418292999,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"msk : what do msk msk should be done about people who swear in public ? man on the street : msk msk it should be against the law . msk : oh , msk suppose msk 're against the right to free speech , then ?",straw_man,0.2966592609882355,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on people as an exaggerated version, then attacks this distorted version. (Low confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+"msk raised taxes , and then the rate of violent msk went up . msk is responsible for the rise in msk .",false_cause,0.866101861000061,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"msk because msk are twice as likely to get into a msk accident , msk should pay more for msk insurance . msk",logical_fallacy,0.28728145360946655,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+you ca n’t give msk a c. msk ’ll lose msk scholarship .,false_dilemma,0.6049274206161499,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Moderate confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+"sea levels are projected to rise by more than 3 feet by [DATE] , wiping away beaches and coastal properties .",appeal_to_emotion,0.7291801571846008,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for sea levels are projected to rise by more than 3 fe.... (High confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"msk issues a proclamation for the people of msk state to pray for msk . [DATE] , it msk . praise the gods !",appeal_to_emotion,0.31089016795158386,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for msk issues a proclamation for the people of msk st.... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+msk 've had bad msk for so long that msk 'm bound to have good msk now .,faulty_generalization,0.5221861600875854,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"in the corporate world , if a loss is “ homo­genised ” to a profit , it is fraud .",logical_fallacy,0.309039443731308,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Low confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"msk is a msk . msk comes from msk . therefore , all msk are msk .",logical_fallacy,0.6719029545783997,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Moderate confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"as a disclaimer , the plot line in which much of new england and [LOC] gets plunged into an ice age is significantly over exaggerated and unrealistic on human time scales .",relevance_fallacy,0.2266138643026352,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+where did msk hide the marijuana msk were smoking ?,intentional,0.23412534594535828,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+""" msk cousin said her msk was msk . the one that msk ’m in is msk too . all msk must be msk . "" this statement is an example of ...",faulty_generalization,0.5288841128349304,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"msk had [DATE] [DATE] . msk woke up msk , msk was not able to eat breakfast , msk missed the train and was msk for work . my heart aches for msk .",false_cause,0.531109094619751,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Moderate confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+""" the academic decathlon , mr. [PERSON] ? that 's a rich kid thing . """,ad_hominem,0.4454118013381958,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"president [PERSON] is an advocate of socialized medicine , which is a form of communism .",fallacy_of_credibility,0.4583190083503723,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"if msk msk that msk msk , msk 'll msk ten msk , and by this time [DATE] , msk 'll be msk 1 million msk a day .",faulty_generalization,0.6204966306686401,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+msk is necessary to msk because msk can only be achieved by a program of social and legal msk .,circular_reasoning,0.777750551700592,"This argument commits CIRCULAR REASONING. It uses msk is necessary to msk because msk can only be ac... as both a premise and the conclusion, creating a logical loop without external evidence. (High confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+""" we should abolish msk . msk , have publicly stated msk opposition to msk . """,fallacy_of_credibility,0.7510955333709717,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (High confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"it ’ s a big problem , he says , when models can ’ t retroactively “ predict ” events that have already happened .",intentional,0.2347448170185089,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+msk ca n't be a great athlete ; msk cheated on msk wife .,ad_hominem,0.7079201340675354,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about msk, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (High confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+""" every time msk uses hairspray , msk is an extremely hot day "" is an example of",false_cause,0.7397834658622742,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"one was the revelation by [ORG] that in [DATE] and [DATE] , after [DATE] when the volume of [LOC] had been diminishing , it increased again by [PERCENT] 33 per cent . the other was that [NORP] scientists studying the effect of climate change on arctic ice from an icebreaker had to suspend their research , when their vessel was called to the aid of other ships trapped in [DATE] ice seen in [LOC] for [DATE] .",faulty_generalization,0.22414857149124146,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"msk for [TIME] , msk for [TIME] , and then someday you will simply cease to show up .",faulty_generalization,0.5582745671272278,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"if someone said , "" msk msk , but msk do n't msk so msk must not be a real kid , "" what logical fallacy are msk using ?",intentional,0.2555196285247803,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"msk : it is morally wrong to cheat on msk spouse , why on earth would msk have done that ? msk : but what is msk exactly ? msk : msk ’s a msk of conduct shared by cultures . msk : but who creates this msk ? ...",relevance_fallacy,0.5126893520355225,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Moderate confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"msk # msk : "" msk support black lives msk 's msk to establish and put into better practice restorative justice ... "" msk # msk : but do n't all lives msk ? msk # msk : of course , but msk 'm telling you about the msk of blm .",relevance_fallacy,0.2518909275531769,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"since msk was a deathbed confession , msk must be true .",circular_reasoning,0.19286876916885376,"This argument commits CIRCULAR REASONING. It uses since msk was a deathbed confession , msk must be ... as both a premise and the conclusion, creating a logical loop without external evidence. (Low confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"if you allow one student to take an online course , soon everyone will want to , and the schools will be empty .",faulty_generalization,0.662708580493927,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"the msk investing for msk really msk better . the msk chess for msk was written by the same author , was published by the same press , and costs about the same amount , so it will probably msk , too .",logical_fallacy,0.6137813925743103,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (Moderate confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+the reason [PERSON] got elected was because liberals took political correctness too far .,ad_hominem,0.513015866279602,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+to justify msk for msk by citing an esteemed or well - known figure who msk msk . [PERSON] msk a msk posición citando a msk figura [GPE] o conocida que msk msk .,fallacy_of_credibility,0.5659156441688538,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Moderate confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"msk : msk just realized that msk will probably never go msk ! msk : why is that ? msk : well , if msk msk just one msk , msk will not be msk , correct ? msk : of course . msk : if msk msk two msk ? msk : no . msk : every time msk msk msk , the msk of msk will not make msk msk ; therefore , msk will never go msk . msk : congratulations , you found the cure to msk -- stupidity !",false_cause,0.3402847349643707,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+[PERSON] will beat up anyone who does n’t vote msk way,false_dilemma,0.4177006185054779,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Low confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+"the [NORP] “ airpocalypse ” of [DATE] peaked at what would have been an air quality index of over 800 . [DATE] , smog was responsible for a third of all deaths in the country .",appeal_to_popularity,0.3127879798412323,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Low confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"msk are caused when msk msk . msk happen along "" fault lines "" in msk crust . when msk msk suddenly msk , msk will begin to msk , shake or tremble . what is the central idea ?",false_cause,0.7730318307876587,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+""" if you believe that msk am wrong , prove to msk that msk am . """,intentional,0.20322902500629425,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+""" msk and msk msk the game . every time msk , msk are going to msk . """,false_cause,0.7967656254768372,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"by msk god , you are msk goodness , msk , and love msk .",fallacy_of_credibility,0.24321788549423218,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"acknowledging this doesn ’ t mean that global warming isn ’ t real , or that world leaders and scientists shouldn ’ t tackle the adverse effects of climate change , but hype and exaggeration serve no one .",straw_man,0.5052209496498108,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Moderate confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+"former president [PERSON] made a significant change to federal land management [DATE] that created the conditions necessary for massive wildfires to consume portions of [GPE] , according to one fire expert who predicted the problem [DATE] .",fallacy_of_credibility,0.41112443804740906,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+quite the contrary : the senator thinks the environment is such a wreck that no one 's car choice or driving habits would make the slightest difference .,ad_hominem,0.6962102651596069,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Moderate confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+""" then msk had a msk . a [DATE] woman hemorrhaged to msk as a result of a cervical laceration . i finally realized , msk were n't helping msk - msk were destroying msk . """,false_cause,0.8282495737075806,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+[GPE] has to act now to reduce msk . recent studies show that the vast majority of [NORP] think that msk is a problem .,appeal_to_popularity,0.5816417932510376,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Moderate confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"msk claims that msk 've served msk , so msk must have the best hamburger in town . msk ca n't be wrong !",fallacy_of_credibility,0.40334972739219666,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"when msk parent asks msk why msk have a bad grade in math class , and msk answer , "" all teachers are the enemy ! """,faulty_generalization,0.4604911506175995,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+even the great david attenborough — presenter of the great barrier reef series — has vouched for its authenticity : ‘,fallacy_of_credibility,0.4143499433994293,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"[ORG] beiber msk ray bans , so you should buy a pair to msk in the sun .",fallacy_of_credibility,0.3593171536922455,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"msk either msk love msk , or msk hate msk . msk",false_dilemma,0.904407262802124,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (Very high confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+""" because everybody thinks this way , it must be right . """,appeal_to_popularity,0.7865174412727356,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"if we adjust for population and wealth , hurricane damage during the period [DATE] decreased slightly .",faulty_generalization,0.2599327862262726,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"msk msk can solve all msk ecological problems by msk a prius quite the contrary , msk the environment is such a wreck that no one ’s car choice or msk habits would make the slightest difference",equivocation,0.4070832133293152,"This argument commits EQUIVOCATION. It uses the term 'a key term' in two different senses, leading to a misleading conclusion. (Low confidence)
+
+Example: 'A feather is light, so it can't be heavy' uses 'light' in two different ways."
+"trump ’ s other nominees , such as state department nominee [PERSON] and interior department nominee [PERSON] , have been less dismissive of climate change in their confirmation hearings , acknowledging at least some human contribution to the phenomenon but also raising questions either about the extent to which it is human-caused or about our capacity to predict the consequences .",ad_hominem,0.48292261362075806,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (Low confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+you can say this for bleeding-heart liberals : they certainly have a flair for the ironic .,ad_hominem,0.7430511116981506,"This argument commits the AD HOMINEM fallacy. Instead of addressing the argument about the issue, it attacks the character of the speaker, which is logically irrelevant to whether the claim is true. (High confidence)
+
+Example: 'You can't trust Dr. Smith's research because he drives an SUV' attacks the person, not the research."
+"in the court trial deliberations , juror seven says , "" there are still eleven of us who think msk 's guilty . you 're alone . "" msk attempt to use numbers to persuade eight is :",appeal_to_popularity,0.7456302642822266,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+"there is also the terrifying possibility that rain forests like the amazon , which in [DATE] suffered its [MONEY] drought ” in the space of [DATE] , could dry out enough to become vulnerable to these kinds of devastating , rolling forest fires — which would not only expel enormous amounts of carbon into the atmosphere but also shrink the size of the forest . that is especially bad because the amazon alone provides [PERCENT] of our oxygen .",appeal_to_emotion,0.6354836821556091,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for there is also the terrifying possibility that rain.... (Moderate confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+have you accepted the fact that most environmental studies do n’t support global warming ?,intentional,0.32825449109077454,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+"msk is preparing to create a commercial for a new energy msk . msk visits msk in msk . the majority of msk says msk prefer msk msk msk , so msk tells msk superiors that msk is the msk favored most by high school students . what error in reasoning has msk made ?",appeal_to_popularity,0.5013936161994934,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (Moderate confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+it is ridiculous to have spent [MONEY] to rescue those two whales msk in [LOC] . why look at all the people msk in jobs they do n’t like .,straw_man,0.33752650022506714,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on the issue as an exaggerated version, then attacks this distorted version. (Low confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+"msk : msk think msk should put more money into schools . quality public education is so msk . msk : so msk ’re saying msk should cut msk and spend msk instead on more spiral notebooks and msk ? msk guess msk want msk country to be a weak , defenseless target for msk . [PERSON] : creo msk msk invertir msk dinero msk [GPE] . msk educación pública msk calidad es muy msk . msk : ¿ entonces estás diciendo msk msk recortar el gasto militar [PERSON] msk msk cuadernos msk espiral msk msk ? supongo msk quiere msk nuestro país sea un objetivo débil e indefenso para msk msk .",straw_man,0.8763211369514465,"This argument commits the STRAW MAN fallacy. It misrepresents the original position on more as an exaggerated version, then attacks this distorted version. (High confidence)
+
+Example: 'You want to lower military spending? So you want us defenseless!' - exaggerates the position."
+there are n't enough parking spaces on campus because there are too many cars .,faulty_generalization,0.3200492858886719,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"all msk are msk . msk are msk . therefore , msk are not msk .",logical_fallacy,0.7604693174362183,"This argument contains a LOGICAL FALLACY. The conclusion does not logically follow from the premises provided. (High confidence)
+
+Example: 'If A then B, B is true, therefore A is true' - affirming the consequent."
+"and we are still stuck with that insanely damaging climate change act , which in this election will scarcely get a mention .",appeal_to_emotion,0.3170764148235321,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for and we are still stuck with that insanely damaging.... (Low confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+"msk neighbor told msk that the position of the sun , moon , and stars decide our personalities . msk believe msk because msk is a famous violin player .",fallacy_of_credibility,0.3324624001979828,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Low confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+some speculate that the elevated level of strife across [LOC] over the past generation reflects the pressures of global warming — a hypothesis all the more cruel considering that warming began accelerating when the industrialized world extracted and then burned the region ’ s oil .,false_cause,0.4095616042613983,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Low confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+believing that [ORG] is healthy for you because everyone else does .,appeal_to_popularity,0.7679137587547302,"This argument commits the APPEAL TO POPULARITY fallacy. It assumes that because many people believe or do something, it must be true or correct. (High confidence)
+
+Example: 'Everyone is buying this product, so it must be the best' uses popularity as evidence."
+msk msk and then msk a msk ; so msk assume that msk causes msk to msk msk,false_cause,0.814066469669342,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (High confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+"msk is a msk on msk , and msk is msk on msk , so is n't msk a kind of msk ?",circular_reasoning,0.6047005653381348,"This argument commits CIRCULAR REASONING. It uses msk is a msk on msk , and msk is msk on msk , so i... as both a premise and the conclusion, creating a logical loop without external evidence. (Moderate confidence)
+
+Example: 'The Bible is true because it says so in the Bible' proves nothing."
+"msk : msk am sorry , but if msk msk msk msk to msk msk , then msk are obviously not very well msk . kent : first of all , msk hold a msk in creation science , so msk am well - msk . second of all , msk ad hominem attack shows that msk are wrong , and msk did msk to msk msk . msk : getting msk msk in [DATE] , from a “ college ” in a trailer park , is not being well - msk . msk fallacy in no way is evidence for msk msk on msk , and despite what msk may msk , the flintstone ’s was not a documentary !",relevance_fallacy,0.29456454515457153,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"msk : msk msk on msk . do n't msk realize that 's wrong walter : hey , wait [TIME] . msk msk on msk [DATE] . or have msk forgotten about that ?",relevance_fallacy,0.35889050364494324,"This argument commits a RELEVANCE FALLACY (Red Herring). It introduces irrelevant information about something irrelevant to divert attention from the main issue. (Low confidence)
+
+Example: 'Why worry about pollution when people are starving?' - changes the subject."
+"msk , says that evolution is msk . therefore , msk 's msk .",equivocation,0.4880278408527374,"This argument commits EQUIVOCATION. It uses the term 'a key term' in two different senses, leading to a misleading conclusion. (Low confidence)
+
+Example: 'A feather is light, so it can't be heavy' uses 'light' in two different ways."
+"we must have a poltergeist in the house . when the dog ran under the table , msk just seemed to jump off the shelf all by msk .",false_cause,0.6048924326896667,"This argument commits the FALSE CAUSE fallacy (Post Hoc Ergo Propter Hoc). It assumes that because one event happened before another event, one event caused another event. (Moderate confidence)
+
+Example: 'I wore my lucky socks and we won, so the socks caused the win' confuses correlation with causation."
+the students in msk msk - grade class msk to a lot of msk music . msk usually hear msk when msk have msk msk or msk on while working on noredink . all msk graders must msk to msk . what type of faulty reasoning is being used ?,faulty_generalization,0.5456551909446716,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Moderate confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+"while it is too early to know if the recent , rapid decline in [LOC] is going to be a regular occurrence like in the [LOC] , it “ certainly puts the kibosh on everyone saying that antarctica ’ s ice is just going up and up , ” meier said .",intentional,0.32894569635391235,"This argument appears INTENTIONALLY MISLEADING. The reasoning is deliberately structured to deceive rather than inform. (Low confidence)
+
+Example: Cherry-picking data to support a predetermined conclusion."
+studies show it takes [DATE] for the human body to digest a piece of gum .,fallacy_of_credibility,0.5608323216438293,"This argument commits the FALLACY OF CREDIBILITY (Appeal to False Authority). It relies on an unqualified source who is not a reliable expert on the issue. (Moderate confidence)
+
+Example: 'My actor friend says this medicine works' - actors aren't medical experts."
+"msk msk know the exam is graded based on performance , but you should give msk an a. msk cat has been sick , msk broke down , and msk ’ve had a cold , so [PERSON] was really hard for msk to study ! msk",appeal_to_emotion,0.6592232584953308,"This argument commits the APPEAL TO EMOTION fallacy. It uses fear or pity to manipulate the audience instead of providing logical evidence for msk msk know the exam is graded based on performan.... (Moderate confidence)
+
+Example: 'Think of the starving children!' evokes pity instead of providing evidence."
+children who play violent video games act more violently than those who do n’t .,faulty_generalization,0.25165173411369324,"This argument commits the FAULTY GENERALIZATION (Hasty Generalization) fallacy. It draws a conclusion about all the group based on only a few example(s). (Low confidence)
+
+Example: 'I met two rude New Yorkers, so everyone there is rude' - insufficient sample size."
+""" either the city should provide msk bins or throw out the msk act "" is an example of :",false_dilemma,0.8971006870269775,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (High confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."
+"msk msk can give cadets awards for doing well , or msk can have a disciplined squadron . [PERSON] n’t do both . msk",false_dilemma,0.8941434621810913,"This argument commits the FALSE DILEMMA fallacy. It presents only one option and another option as options, ignoring other valid possibilities. (High confidence)
+
+Example: 'You're either with us or against us' ignores neutral positions."

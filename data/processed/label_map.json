@@ -1,0 +1,12 @@
+{
+  "ad hominem": 0,
+  "appeal to popularity": 1,
+  "equivocation": 2,
+  "fallacy of extension": 3,
+  "false cause": 4,
+  "false dilemma": 5,
+  "hasty generalization": 6,
+  "intentional": 7,
+  "logical fallacy": 8,
+  "relevance fallacy": 9
+}
